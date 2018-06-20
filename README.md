@@ -1,2 +1,0 @@
-# JavaProject
-my own peoject
